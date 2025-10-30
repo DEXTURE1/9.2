@@ -17,7 +17,7 @@ This is a **React Dockerized Application** with a simple CI/CD workflow.
 
 ## 🧠 Folder Structure
 ```
-react-ci-cd-upload/
+react-ci-cd-upload/.
 ├── Dockerfile
 ├── package.json
 ├── README.md
